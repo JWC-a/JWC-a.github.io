@@ -7,7 +7,7 @@ const portfolio = {
   summary: "用代码把开放数据变成可理解的信息。我专注网页采集、数据清洗与自动化流程。",
   status: "持续学习",
   location: "中国 · 贵州",
-  email: "kaiyang@example.com",
+  email: "3511518412@qq.com",
   github: "https://github.com/JWC-a/JWC-a.github.io",
   csdn: "https://blog.csdn.net/jiang_wen_chao?spm=1000.2115.3001.10640",
   gitee: "https://gitee.com/jiangwenchao_666/my_works",
